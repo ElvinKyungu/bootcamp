@@ -42,7 +42,9 @@ body {
   display: flex;
   gap: 1rem;
 }
-
+.menu-toggle{
+  display: none;
+}
 .nav-menu ul {
   display: flex;
   list-style: none;
